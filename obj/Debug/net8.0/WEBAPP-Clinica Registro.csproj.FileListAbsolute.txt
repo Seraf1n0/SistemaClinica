@@ -29,4 +29,3 @@ C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0
 C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.genruntimeconfig.cache
 C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\ref\WEBAPP-Clinica Registro.dll
 C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.sourcelink.json
-C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\pacientes.json

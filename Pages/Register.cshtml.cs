@@ -14,10 +14,26 @@ namespace WEBAPP_Clinica_Registro.Pages
         }
 
         public IActionResult OnPost() {
+            // Validaciones generales
+            if (Paciente.cedula.Length != 10) { //Suponiendo que deba de ser de esa longitud 
+                ModelState.AddModelError("Paciente.cedula", "La cédula debe tener 10 números.");
+            }
+
+            if (Paciente.nombre.Length > 100) {
+                ModelState.AddModelError("Paciente.nombre", "El nombre no puede tener más de 100 caracteres.");
+            }
+
+            if (Paciente.fechaNacimiento > DateTime.Today) {
+                ModelState.AddModelError("Paciente.fechaNacimiento", "La fecha de nacimiento debe ser anterior a hoy."); // Evita que se ponga una fecha de nacimiento no existente a dia de hoy
+            }
+            
+            if (Paciente.edad < 0 || Paciente.edad > 120) {
+                ModelState.AddModelError("Paciente.edad", "La edad debe estar entre 0 y 120 años."); // Es un estandar, puede cambiar
+            }
+            
             if (!ModelState.IsValid) {
                 return Page();
             }
-
             // Guarda el paciente en un archivo JSON
             var pacientes = new List<Paciente>();
             var fileName = Path.Combine(Directory.GetCurrentDirectory(), "pacientes.json");

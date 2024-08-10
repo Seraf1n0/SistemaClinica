@@ -1,4 +1,6 @@
-// Clase para mantener los datos ingresados y almacenarlos
+/*
+* Esta clase busca ayudar a manejar la entidad Paciente y reconocer sus atributos para poder almacenar y mostrar la información necesaria.
+*/
 
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
