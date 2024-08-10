@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEBAPP-Clinica Registro.props" />
+</Project>

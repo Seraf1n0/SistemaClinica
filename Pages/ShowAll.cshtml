@@ -1,0 +1,30 @@
+@page
+@model ShowAllModel
+@{
+    ViewData["Title"] = "Mostrar Todos los Pacientes";
+}
+
+<h1>Todos los Pacientes Registrados</h1>
+
+@if (Model.Pacientes.Count > 0) {
+    <table border="1" align="center">
+        <th><strong>Cédula</strong></th>
+        <th><strong>Nombre</strong></th>
+        <th><strong>Fecha de Nacimiento</strong></th>
+        <th><strong>Edad</strong></th>
+        <th><strong>Dirección</strong></th>
+        @foreach (var paciente in Model.Pacientes) {
+            <tr>
+                <td>@paciente.cedula </td>
+                <td>@paciente.nombre </td>
+                <td>@paciente.fechaNacimiento.ToShortDateString()</td>
+                <td>@paciente.edad</td>
+                <td>@paciente.direccion </td>
+            </tr>
+        }
+
+    </table>
+}
+else {
+    <p>No hay pacientes registrados.</p>
+}

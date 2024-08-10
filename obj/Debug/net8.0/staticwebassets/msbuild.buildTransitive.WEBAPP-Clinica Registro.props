@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WEBAPP-Clinica Registro.props" />
+</Project>

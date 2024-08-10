@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenido a la Clínica</h1>
+        <button onclick="location.href='Register'">Registrar Paciente</button>
+        <button onclick="location.href='ShowAll'">Mostrar Todo</button>
+    </div>
+</body>
+</html>

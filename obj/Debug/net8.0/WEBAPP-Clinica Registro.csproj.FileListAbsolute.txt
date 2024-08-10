@@ -1,0 +1,32 @@
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\appsettings.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\WEBAPP-Clinica Registro.staticwebassets.runtime.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\WEBAPP-Clinica Registro.exe
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\WEBAPP-Clinica Registro.deps.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\WEBAPP-Clinica Registro.runtimeconfig.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\WEBAPP-Clinica Registro.dll
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\WEBAPP-Clinica Registro.pdb
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.AssemblyInfoInputs.cache
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.AssemblyInfo.cs
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.csproj.CoreCompileInputs.cache
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.RazorAssemblyInfo.cache
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.RazorAssemblyInfo.cs
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\staticwebassets\msbuild.WEBAPP-Clinica Registro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\staticwebassets\msbuild.build.WEBAPP-Clinica Registro.props
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPP-Clinica Registro.props
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WEBAPP-Clinica Registro.props
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\scopedcss\bundle\WEBAPP-Clinica Registro.styles.css
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\scopedcss\projectbundle\WEBAPP-Clinica Registro.bundle.scp.css
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.dll
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\refint\WEBAPP-Clinica Registro.dll
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.pdb
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.genruntimeconfig.cache
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\ref\WEBAPP-Clinica Registro.dll
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\obj\Debug\net8.0\WEBAPP-Clinica Registro.sourcelink.json
+C:\Users\yosim\Documents\Bases I\Tareas\WEBAPP-Clinica Registro\bin\Debug\net8.0\pacientes.json
